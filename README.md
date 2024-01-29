@@ -1,6 +1,6 @@
 **Introduction**
 
-Welcome to the repository of my Amazon Clone project. This project is a simplified front-end clone of the well-known e-commerce platform, Amazon. It's designed using only HTML and CSS to showcase my skills in web development and design. This clone is not only a tribute to the complexity and functionality of Amazon's interface but also a testament to the power of basic web technologies.
+Welcome to the repository of my Amazon Clone project. This project is a simplified front-end clone of the well-known e-commerce platform, Amazon. It's designed using only HTML and CSS. This clone is not only a tribute to the complexity and functionality of Amazon's interface but also a testament to the power of basic web technologies.
 
 **Features**
 
